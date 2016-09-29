@@ -23,6 +23,6 @@ setup(
     packages=find_packages(exclude=['tests']),
     include_package_data=True,
     package_data={'data': ['*.csv']},
-    install_requires=['riko>=0.36.0,<0.37.0'],
+    install_requires=['riko>=0.37.0,<0.38.0'],
     zip_safe=False
 )
