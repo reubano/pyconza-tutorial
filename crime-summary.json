@@ -1,0 +1,4001 @@
+[ {
+  "station" : "Aberdeen",
+  "sum_2014_2015" : "1153"
+}
+, {
+  "station" : "Acornhoek",
+  "sum_2014_2015" : "5047"
+}
+, {
+  "station" : "Actonville",
+  "sum_2014_2015" : "5457"
+}
+, {
+  "station" : "Addo",
+  "sum_2014_2015" : "2888"
+}
+, {
+  "station" : "Adelaide",
+  "sum_2014_2015" : "1560"
+}
+, {
+  "station" : "Afsondering",
+  "sum_2014_2015" : "1127"
+}
+, {
+  "station" : "Aggeneys",
+  "sum_2014_2015" : "165"
+}
+, {
+  "station" : "Akasia",
+  "sum_2014_2015" : "21736"
+}
+, {
+  "station" : "Albertinia",
+  "sum_2014_2015" : "1673"
+}
+, {
+  "station" : "Alberton",
+  "sum_2014_2015" : "17136"
+}
+, {
+  "station" : "Alexander Bay",
+  "sum_2014_2015" : "284"
+}
+, {
+  "station" : "Alexandra",
+  "sum_2014_2015" : "19364"
+}
+, {
+  "station" : "Alexandra Road",
+  "sum_2014_2015" : "8842"
+}
+, {
+  "station" : "Alexandria",
+  "sum_2014_2015" : "2147"
+}
+, {
+  "station" : "Algoapark",
+  "sum_2014_2015" : "9106"
+}
+, {
+  "station" : "Alice",
+  "sum_2014_2015" : "4357"
+}
+, {
+  "station" : "Alicedale",
+  "sum_2014_2015" : "260"
+}
+, {
+  "station" : "Aliwal North",
+  "sum_2014_2015" : "3233"
+}
+, {
+  "station" : "Allanridge",
+  "sum_2014_2015" : "2127"
+}
+, {
+  "station" : "Alldays",
+  "sum_2014_2015" : "696"
+}
+, {
+  "station" : "Amalia",
+  "sum_2014_2015" : "546"
+}
+, {
+  "station" : "Amangwe",
+  "sum_2014_2015" : "1849"
+}
+, {
+  "station" : "Amanzimtoti",
+  "sum_2014_2015" : "10168"
+}
+, {
+  "station" : "Amersfoort",
+  "sum_2014_2015" : "3796"
+}
+, {
+  "station" : "Amsterdam",
+  "sum_2014_2015" : "1819"
+}
+, {
+  "station" : "Apel",
+  "sum_2014_2015" : "3035"
+}
+, {
+  "station" : "Arlington",
+  "sum_2014_2015" : "368"
+}
+, {
+  "station" : "Ashton",
+  "sum_2014_2015" : "3358"
+}
+, {
+  "station" : "Assen",
+  "sum_2014_2015" : "991"
+}
+, {
+  "station" : "Atamelang",
+  "sum_2014_2015" : "1516"
+}
+, {
+  "station" : "Athlone",
+  "sum_2014_2015" : "22386"
+}
+, {
+  "station" : "Atlantis",
+  "sum_2014_2015" : "17899"
+}
+, {
+  "station" : "Atteridgeville",
+  "sum_2014_2015" : "19901"
+}
+, {
+  "station" : "Augrabies",
+  "sum_2014_2015" : "997"
+}
+, {
+  "station" : "Avondale",
+  "sum_2014_2015" : "806"
+}
+, {
+  "station" : "Babanango",
+  "sum_2014_2015" : "846"
+}
+, {
+  "station" : "Badplaas",
+  "sum_2014_2015" : "932"
+}
+, {
+  "station" : "Bainsvlei",
+  "sum_2014_2015" : "3124"
+}
+, {
+  "station" : "Balfour",
+  "sum_2014_2015" : "434"
+}
+, {
+  "station" : "Balfour Tvl",
+  "sum_2014_2015" : "3118"
+}
+, {
+  "station" : "Barberton",
+  "sum_2014_2015" : "5959"
+}
+, {
+  "station" : "Barkly East",
+  "sum_2014_2015" : "1202"
+}
+, {
+  "station" : "Barkly West",
+  "sum_2014_2015" : "1982"
+}
+, {
+  "station" : "Barrydale",
+  "sum_2014_2015" : "1533"
+}
+, {
+  "station" : "Bathlaros",
+  "sum_2014_2015" : "1976"
+}
+, {
+  "station" : "Batho",
+  "sum_2014_2015" : "2322"
+}
+, {
+  "station" : "Bathurst",
+  "sum_2014_2015" : "1025"
+}
+, {
+  "station" : "Baviaanskloof",
+  "sum_2014_2015" : "78"
+}
+, {
+  "station" : "Bayswater",
+  "sum_2014_2015" : "3981"
+}
+, {
+  "station" : "Bayview",
+  "sum_2014_2015" : "5398"
+}
+, {
+  "station" : "Beacon Bay",
+  "sum_2014_2015" : "4534"
+}
+, {
+  "station" : "Beaufort West",
+  "sum_2014_2015" : "14382"
+}
+, {
+  "station" : "Bedford",
+  "sum_2014_2015" : "1064"
+}
+, {
+  "station" : "Bedfordview",
+  "sum_2014_2015" : "11288"
+}
+, {
+  "station" : "Bedwang",
+  "sum_2014_2015" : "986"
+}
+, {
+  "station" : "Bekkersdal",
+  "sum_2014_2015" : "6790"
+}
+, {
+  "station" : "Bela-Bela",
+  "sum_2014_2015" : "8476"
+}
+, {
+  "station" : "Belfast",
+  "sum_2014_2015" : "3162"
+}
+, {
+  "station" : "Belhar",
+  "sum_2014_2015" : "12245"
+}
+, {
+  "station" : "Bell",
+  "sum_2014_2015" : "546"
+}
+, {
+  "station" : "Bellair",
+  "sum_2014_2015" : "5188"
+}
+, {
+  "station" : "Bellville",
+  "sum_2014_2015" : "28989"
+}
+, {
+  "station" : "Bellville South",
+  "sum_2014_2015" : "7398"
+}
+, {
+  "station" : "Belmont",
+  "sum_2014_2015" : "125"
+}
+, {
+  "station" : "Benoni",
+  "sum_2014_2015" : "22693"
+}
+, {
+  "station" : "Berea",
+  "sum_2014_2015" : "10455"
+}
+, {
+  "station" : "Bergville",
+  "sum_2014_2015" : "3289"
+}
+, {
+  "station" : "Berlin",
+  "sum_2014_2015" : "1086"
+}
+, {
+  "station" : "Besters",
+  "sum_2014_2015" : "1621"
+}
+, {
+  "station" : "Bethal",
+  "sum_2014_2015" : "3106"
+}
+, {
+  "station" : "Bethanie",
+  "sum_2014_2015" : "4874"
+}
+, {
+  "station" : "Bethelsdorp",
+  "sum_2014_2015" : "15914"
+}
+, {
+  "station" : "Bethlehem",
+  "sum_2014_2015" : "14572"
+}
+, {
+  "station" : "Bethulie",
+  "sum_2014_2015" : "726"
+}
+, {
+  "station" : "Bhekithemba",
+  "sum_2014_2015" : "7440"
+}
+, {
+  "station" : "Bhisho",
+  "sum_2014_2015" : "2493"
+}
+, {
+  "station" : "Bholo",
+  "sum_2014_2015" : "396"
+}
+, {
+  "station" : "Bholothwa",
+  "sum_2014_2015" : "482"
+}
+, {
+  "station" : "Biesiesvlei",
+  "sum_2014_2015" : "687"
+}
+, {
+  "station" : "Bishop Lavis",
+  "sum_2014_2015" : "24983"
+}
+, {
+  "station" : "Bishopstowe",
+  "sum_2014_2015" : "805"
+}
+, {
+  "station" : "Bityi",
+  "sum_2014_2015" : "2466"
+}
+, {
+  "station" : "Blinkpan",
+  "sum_2014_2015" : "2416"
+}
+, {
+  "station" : "Bloemhof",
+  "sum_2014_2015" : "3405"
+}
+, {
+  "station" : "Bloemspruit",
+  "sum_2014_2015" : "13037"
+}
+, {
+  "station" : "Bluewater",
+  "sum_2014_2015" : "590"
+}
+, {
+  "station" : "Boetsap",
+  "sum_2014_2015" : "49"
+}
+, {
+  "station" : "Boipatong",
+  "sum_2014_2015" : "2312"
+}
+, {
+  "station" : "Boitekong",
+  "sum_2014_2015" : "11527"
+}
+, {
+  "station" : "Boithuso",
+  "sum_2014_2015" : "7803"
+}
+, {
+  "station" : "Boksburg",
+  "sum_2014_2015" : "11185"
+}
+, {
+  "station" : "Boksburg North",
+  "sum_2014_2015" : "17778"
+}
+, {
+  "station" : "Bolobedu",
+  "sum_2014_2015" : "7386"
+}
+, {
+  "station" : "Bonnievale",
+  "sum_2014_2015" : "1799"
+}
+, {
+  "station" : "Boons",
+  "sum_2014_2015" : "515"
+}
+, {
+  "station" : "Booysens",
+  "sum_2014_2015" : "19008"
+}
+, {
+  "station" : "Boschkop",
+  "sum_2014_2015" : "6421"
+}
+, {
+  "station" : "Boshoek",
+  "sum_2014_2015" : "247"
+}
+, {
+  "station" : "Boshof",
+  "sum_2014_2015" : "1117"
+}
+, {
+  "station" : "Boston",
+  "sum_2014_2015" : "544"
+}
+, {
+  "station" : "Bothasig",
+  "sum_2014_2015" : "4429"
+}
+, {
+  "station" : "Bothaville",
+  "sum_2014_2015" : "6400"
+}
+, {
+  "station" : "Bothithong",
+  "sum_2014_2015" : "634"
+}
+, {
+  "station" : "Botlokwa",
+  "sum_2014_2015" : "3951"
+}
+, {
+  "station" : "Botshabelo",
+  "sum_2014_2015" : "9563"
+}
+, {
+  "station" : "Brackendowns",
+  "sum_2014_2015" : "9397"
+}
+, {
+  "station" : "Brackenfell",
+  "sum_2014_2015" : "11607"
+}
+, {
+  "station" : "Brakpan",
+  "sum_2014_2015" : "14649"
+}
+, {
+  "station" : "Bramley",
+  "sum_2014_2015" : "11516"
+}
+, {
+  "station" : "Brandfort",
+  "sum_2014_2015" : "2405"
+}
+, {
+  "station" : "Brandvlei",
+  "sum_2014_2015" : "323"
+}
+, {
+  "station" : "Bray",
+  "sum_2014_2015" : "234"
+}
+, {
+  "station" : "Bredasdorp",
+  "sum_2014_2015" : "4793"
+}
+, {
+  "station" : "Breyten",
+  "sum_2014_2015" : "893"
+}
+, {
+  "station" : "Bridge Camp",
+  "sum_2014_2015" : "642"
+}
+, {
+  "station" : "Brighton Beach",
+  "sum_2014_2015" : "8153"
+}
+, {
+  "station" : "Brits",
+  "sum_2014_2015" : "14629"
+}
+, {
+  "station" : "Britstown",
+  "sum_2014_2015" : "865"
+}
+, {
+  "station" : "Brixton",
+  "sum_2014_2015" : "16270"
+}
+, {
+  "station" : "Bronkhorstspruit",
+  "sum_2014_2015" : "11247"
+}
+, {
+  "station" : "Bronville",
+  "sum_2014_2015" : "3525"
+}
+, {
+  "station" : "Brooklyn",
+  "sum_2014_2015" : "22916"
+}
+, {
+  "station" : "Buffalo Flats",
+  "sum_2014_2015" : "5066"
+}
+, {
+  "station" : "Buffelshoek",
+  "sum_2014_2015" : "619"
+}
+, {
+  "station" : "Bulgerivier",
+  "sum_2014_2015" : "107"
+}
+, {
+  "station" : "Bultfontein",
+  "sum_2014_2015" : "2656"
+}
+, {
+  "station" : "Bulwer",
+  "sum_2014_2015" : "2620"
+}
+, {
+  "station" : "Burgersdorp",
+  "sum_2014_2015" : "3252"
+}
+, {
+  "station" : "Burgersfort",
+  "sum_2014_2015" : "7132"
+}
+, {
+  "station" : "Bushbuckridge",
+  "sum_2014_2015" : "5977"
+}
+, {
+  "station" : "Butterworth",
+  "sum_2014_2015" : "8079"
+}
+, {
+  "station" : "Cala",
+  "sum_2014_2015" : "2610"
+}
+, {
+  "station" : "Calcutta",
+  "sum_2014_2015" : "6002"
+}
+, {
+  "station" : "Caledon",
+  "sum_2014_2015" : "5462"
+}
+, {
+  "station" : "Calitzdorp",
+  "sum_2014_2015" : "1531"
+}
+, {
+  "station" : "Calvinia",
+  "sum_2014_2015" : "1717"
+}
+, {
+  "station" : "Cambridge",
+  "sum_2014_2015" : "15161"
+}
+, {
+  "station" : "Campbell",
+  "sum_2014_2015" : "548"
+}
+, {
+  "station" : "Camperdown",
+  "sum_2014_2015" : "2608"
+}
+, {
+  "station" : "Camps Bay",
+  "sum_2014_2015" : "1981"
+}
+, {
+  "station" : "Cape Town Central",
+  "sum_2014_2015" : "51175"
+}
+, {
+  "station" : "Carletonville",
+  "sum_2014_2015" : "12292"
+}
+, {
+  "station" : "Carnarvon",
+  "sum_2014_2015" : "1234"
+}
+, {
+  "station" : "Carolina",
+  "sum_2014_2015" : "2014"
+}
+, {
+  "station" : "Cathcart",
+  "sum_2014_2015" : "1075"
+}
+, {
+  "station" : "Cato Manor",
+  "sum_2014_2015" : "5849"
+}
+, {
+  "station" : "Cedarville",
+  "sum_2014_2015" : "561"
+}
+, {
+  "station" : "Centane",
+  "sum_2014_2015" : "3936"
+}
+, {
+  "station" : "Ceres",
+  "sum_2014_2015" : "10204"
+}
+, {
+  "station" : "Ceza",
+  "sum_2014_2015" : "965"
+}
+, {
+  "station" : "Chalumna",
+  "sum_2014_2015" : "795"
+}
+, {
+  "station" : "Charl Cilliers",
+  "sum_2014_2015" : "274"
+}
+, {
+  "station" : "Charlestown",
+  "sum_2014_2015" : "535"
+}
+, {
+  "station" : "Chatsworth",
+  "sum_2014_2015" : "24602"
+}
+, {
+  "station" : "Chrissiesmeer",
+  "sum_2014_2015" : "641"
+}
+, {
+  "station" : "Christiana",
+  "sum_2014_2015" : "3452"
+}
+, {
+  "station" : "Chungwa",
+  "sum_2014_2015" : "1090"
+}
+, {
+  "station" : "Citrusdal",
+  "sum_2014_2015" : "2822"
+}
+, {
+  "station" : "Clanwilliam",
+  "sum_2014_2015" : "2032"
+}
+, {
+  "station" : "Claremont",
+  "sum_2014_2015" : "16688"
+}
+, {
+  "station" : "Clarens",
+  "sum_2014_2015" : "599"
+}
+, {
+  "station" : "Cleveland",
+  "sum_2014_2015" : "11980"
+}
+, {
+  "station" : "Clocolan",
+  "sum_2014_2015" : "1312"
+}
+, {
+  "station" : "Cloetesville",
+  "sum_2014_2015" : "7267"
+}
+, {
+  "station" : "Coffee Bay",
+  "sum_2014_2015" : "774"
+}
+, {
+  "station" : "Cofimvaba",
+  "sum_2014_2015" : "3535"
+}
+, {
+  "station" : "Colenso",
+  "sum_2014_2015" : "956"
+}
+, {
+  "station" : "Colesberg",
+  "sum_2014_2015" : "1107"
+}
+, {
+  "station" : "Coligny",
+  "sum_2014_2015" : "1569"
+}
+, {
+  "station" : "Committees",
+  "sum_2014_2015" : "189"
+}
+, {
+  "station" : "Conville",
+  "sum_2014_2015" : "11707"
+}
+, {
+  "station" : "Cookhouse",
+  "sum_2014_2015" : "1546"
+}
+, {
+  "station" : "Cornelia",
+  "sum_2014_2015" : "365"
+}
+, {
+  "station" : "Cradock",
+  "sum_2014_2015" : "5958"
+}
+, {
+  "station" : "Cramond",
+  "sum_2014_2015" : "850"
+}
+, {
+  "station" : "Creighton",
+  "sum_2014_2015" : "822"
+}
+, {
+  "station" : "Crystalpark",
+  "sum_2014_2015" : "3717"
+}
+, {
+  "station" : "Cullinan",
+  "sum_2014_2015" : "7379"
+}
+, {
+  "station" : "Cumberland",
+  "sum_2014_2015" : "142"
+}
+, {
+  "station" : "Cyferskuil",
+  "sum_2014_2015" : "1349"
+}
+, {
+  "station" : "Da Gamaskop",
+  "sum_2014_2015" : "8080"
+}
+, {
+  "station" : "Dalasile",
+  "sum_2014_2015" : "1205"
+}
+, {
+  "station" : "Dalton",
+  "sum_2014_2015" : "950"
+}
+, {
+  "station" : "Danielskuil",
+  "sum_2014_2015" : "1023"
+}
+, {
+  "station" : "Dannhauser",
+  "sum_2014_2015" : "3748"
+}
+, {
+  "station" : "Darling",
+  "sum_2014_2015" : "2508"
+}
+, {
+  "station" : "Davel",
+  "sum_2014_2015" : "405"
+}
+, {
+  "station" : "Daveyton",
+  "sum_2014_2015" : "12751"
+}
+, {
+  "station" : "Dawn Park",
+  "sum_2014_2015" : "8538"
+}
+, {
+  "station" : "De Aar",
+  "sum_2014_2015" : "2703"
+}
+, {
+  "station" : "Dealesville",
+  "sum_2014_2015" : "707"
+}
+, {
+  "station" : "Deben",
+  "sum_2014_2015" : "390"
+}
+, {
+  "station" : "De Deur",
+  "sum_2014_2015" : "8251"
+}
+, {
+  "station" : "De Doorns",
+  "sum_2014_2015" : "5788"
+}
+, {
+  "station" : "Delareyville",
+  "sum_2014_2015" : "1764"
+}
+, {
+  "station" : "Delft",
+  "sum_2014_2015" : "23557"
+}
+, {
+  "station" : "Delmas",
+  "sum_2014_2015" : "7101"
+}
+, {
+  "station" : "Delportshoop",
+  "sum_2014_2015" : "1146"
+}
+, {
+  "station" : "Deneysville",
+  "sum_2014_2015" : "2600"
+}
+, {
+  "station" : "Dennilton",
+  "sum_2014_2015" : "4816"
+}
+, {
+  "station" : "De Rust",
+  "sum_2014_2015" : "1175"
+}
+, {
+  "station" : "Despatch",
+  "sum_2014_2015" : "3567"
+}
+, {
+  "station" : "Devon",
+  "sum_2014_2015" : "892"
+}
+, {
+  "station" : "Dewetsdorp",
+  "sum_2014_2015" : "925"
+}
+, {
+  "station" : "Dientjie",
+  "sum_2014_2015" : "670"
+}
+, {
+  "station" : "Diepkloof",
+  "sum_2014_2015" : "14409"
+}
+, {
+  "station" : "Dieprivier",
+  "sum_2014_2015" : "10473"
+}
+, {
+  "station" : "Diepsloot",
+  "sum_2014_2015" : "11103"
+}
+, {
+  "station" : "Dimbaza",
+  "sum_2014_2015" : "3786"
+}
+, {
+  "station" : "Dingleton",
+  "sum_2014_2015" : "448"
+}
+, {
+  "station" : "Dirkiesdorp",
+  "sum_2014_2015" : "1979"
+}
+, {
+  "station" : "Dobsonville",
+  "sum_2014_2015" : "20933"
+}
+, {
+  "station" : "Donnybrook",
+  "sum_2014_2015" : "1571"
+}
+, {
+  "station" : "Dordrecht",
+  "sum_2014_2015" : "901"
+}
+, {
+  "station" : "Doring Bay",
+  "sum_2014_2015" : "304"
+}
+, {
+  "station" : "Doringkloof",
+  "sum_2014_2015" : "85"
+}
+, {
+  "station" : "Dorset",
+  "sum_2014_2015" : "355"
+}
+, {
+  "station" : "Douglas",
+  "sum_2014_2015" : "2930"
+}
+, {
+  "station" : "Douglasdale",
+  "sum_2014_2015" : "21064"
+}
+, {
+  "station" : "Dube",
+  "sum_2014_2015" : "1641"
+}
+, {
+  "station" : "Dududu",
+  "sum_2014_2015" : "1071"
+}
+, {
+  "station" : "Duduza",
+  "sum_2014_2015" : "6660"
+}
+, {
+  "station" : "Dullstroom",
+  "sum_2014_2015" : "905"
+}
+, {
+  "station" : "Duncan Village",
+  "sum_2014_2015" : "6274"
+}
+, {
+  "station" : "Dundee",
+  "sum_2014_2015" : "5811"
+}
+, {
+  "station" : "Dunnottar",
+  "sum_2014_2015" : "1771"
+}
+, {
+  "station" : "Durban Central",
+  "sum_2014_2015" : "41177"
+}
+, {
+  "station" : "Durban North",
+  "sum_2014_2015" : "12473"
+}
+, {
+  "station" : "Durbanville",
+  "sum_2014_2015" : "12937"
+}
+, {
+  "station" : "Dutywa",
+  "sum_2014_2015" : "5225"
+}
+, {
+  "station" : "Dwaalboom",
+  "sum_2014_2015" : "211"
+}
+, {
+  "station" : "Dysselsdorp",
+  "sum_2014_2015" : "1761"
+}
+, {
+  "station" : "East London",
+  "sum_2014_2015" : "19094"
+}
+, {
+  "station" : "Edenburg",
+  "sum_2014_2015" : "1088"
+}
+, {
+  "station" : "Edenpark",
+  "sum_2014_2015" : "6962"
+}
+, {
+  "station" : "Edenvale",
+  "sum_2014_2015" : "10347"
+}
+, {
+  "station" : "Edenville",
+  "sum_2014_2015" : "710"
+}
+, {
+  "station" : "Eendekuil",
+  "sum_2014_2015" : "425"
+}
+, {
+  "station" : "Eersterust",
+  "sum_2014_2015" : "3909"
+}
+, {
+  "station" : "Ekangala",
+  "sum_2014_2015" : "5028"
+}
+, {
+  "station" : "Ekombe",
+  "sum_2014_2015" : "1335"
+}
+, {
+  "station" : "Ekulindeni",
+  "sum_2014_2015" : "289"
+}
+, {
+  "station" : "Ekuvukeni",
+  "sum_2014_2015" : "3519"
+}
+, {
+  "station" : "Elands Bay",
+  "sum_2014_2015" : "480"
+}
+, {
+  "station" : "Elands Height",
+  "sum_2014_2015" : "13"
+}
+, {
+  "station" : "Elandskraal",
+  "sum_2014_2015" : "671"
+}
+, {
+  "station" : "Elandslaagte",
+  "sum_2014_2015" : "1200"
+}
+, {
+  "station" : "Eldorado Park",
+  "sum_2014_2015" : "23104"
+}
+, {
+  "station" : "Elliot",
+  "sum_2014_2015" : "1970"
+}
+, {
+  "station" : "Elliotdale",
+  "sum_2014_2015" : "1777"
+}
+, {
+  "station" : "Elsburg",
+  "sum_2014_2015" : "7509"
+}
+, {
+  "station" : "Elsies River",
+  "sum_2014_2015" : "21260"
+}
+, {
+  "station" : "Elukwatini",
+  "sum_2014_2015" : "2995"
+}
+, {
+  "station" : "Emanguzi",
+  "sum_2014_2015" : "3033"
+}
+, {
+  "station" : "Ematimatolo",
+  "sum_2014_2015" : "1386"
+}
+, {
+  "station" : "Ematsheni",
+  "sum_2014_2015" : "1528"
+}
+, {
+  "station" : "Embalenhle",
+  "sum_2014_2015" : "7282"
+}
+, {
+  "station" : "Empangeni",
+  "sum_2014_2015" : "20222"
+}
+, {
+  "station" : "Emzinoni",
+  "sum_2014_2015" : "3034"
+}
+, {
+  "station" : "Ennerdale",
+  "sum_2014_2015" : "9599"
+}
+, {
+  "station" : "Erasmia",
+  "sum_2014_2015" : "4245"
+}
+, {
+  "station" : "Ermelo",
+  "sum_2014_2015" : "15348"
+}
+, {
+  "station" : "Eshowe",
+  "sum_2014_2015" : "8509"
+}
+, {
+  "station" : "Esikhaleni",
+  "sum_2014_2015" : "9769"
+}
+, {
+  "station" : "Estcourt",
+  "sum_2014_2015" : "5726"
+}
+, {
+  "station" : "Etwatwa",
+  "sum_2014_2015" : "9947"
+}
+, {
+  "station" : "Evander",
+  "sum_2014_2015" : "1898"
+}
+, {
+  "station" : "Evaton",
+  "sum_2014_2015" : "18555"
+}
+, {
+  "station" : "Evatt",
+  "sum_2014_2015" : "218"
+}
+, {
+  "station" : "Excelsior",
+  "sum_2014_2015" : "499"
+}
+, {
+  "station" : "Ezakheni",
+  "sum_2014_2015" : "6480"
+}
+, {
+  "station" : "Ezibayeni",
+  "sum_2014_2015" : "406"
+}
+, {
+  "station" : "Ezibeleni",
+  "sum_2014_2015" : "1508"
+}
+, {
+  "station" : "Ezinqoleni",
+  "sum_2014_2015" : "3489"
+}
+, {
+  "station" : "Fairland",
+  "sum_2014_2015" : "4103"
+}
+, {
+  "station" : "Fauresmith",
+  "sum_2014_2015" : "207"
+}
+, {
+  "station" : "Fernie",
+  "sum_2014_2015" : "611"
+}
+, {
+  "station" : "Ficksburg",
+  "sum_2014_2015" : "5962"
+}
+, {
+  "station" : "Fish Hoek",
+  "sum_2014_2015" : "6470"
+}
+, {
+  "station" : "Flagstaff",
+  "sum_2014_2015" : "3928"
+}
+, {
+  "station" : "Florida",
+  "sum_2014_2015" : "19295"
+}
+, {
+  "station" : "Floukraal",
+  "sum_2014_2015" : "84"
+}
+, {
+  "station" : "Fochville",
+  "sum_2014_2015" : "5222"
+}
+, {
+  "station" : "Folweni",
+  "sum_2014_2015" : "4692"
+}
+, {
+  "station" : "Fort Beaufort",
+  "sum_2014_2015" : "4361"
+}
+, {
+  "station" : "Fort Brown",
+  "sum_2014_2015" : "73"
+}
+, {
+  "station" : "Fouriesburg",
+  "sum_2014_2015" : "1461"
+}
+, {
+  "station" : "Franklin",
+  "sum_2014_2015" : "283"
+}
+, {
+  "station" : "Franschhoek",
+  "sum_2014_2015" : "2695"
+}
+, {
+  "station" : "Fraserburg",
+  "sum_2014_2015" : "451"
+}
+, {
+  "station" : "Galeshewe",
+  "sum_2014_2015" : "10566"
+}
+, {
+  "station" : "Gamalakhe",
+  "sum_2014_2015" : "3098"
+}
+, {
+  "station" : "Gans Bay",
+  "sum_2014_2015" : "4471"
+}
+, {
+  "station" : "Ganyesa",
+  "sum_2014_2015" : "2485"
+}
+, {
+  "station" : "Ga-Rankuwa",
+  "sum_2014_2015" : "9687"
+}
+, {
+  "station" : "Gariepdam",
+  "sum_2014_2015" : "173"
+}
+, {
+  "station" : "Garies",
+  "sum_2014_2015" : "651"
+}
+, {
+  "station" : "Garsfontein",
+  "sum_2014_2015" : "11254"
+}
+, {
+  "station" : "Gelvandale",
+  "sum_2014_2015" : "13052"
+}
+, {
+  "station" : "Genadendal",
+  "sum_2014_2015" : "2247"
+}
+, {
+  "station" : "George",
+  "sum_2014_2015" : "16762"
+}
+, {
+  "station" : "Germiston",
+  "sum_2014_2015" : "19932"
+}
+, {
+  "station" : "Gilead",
+  "sum_2014_2015" : "1667"
+}
+, {
+  "station" : "Gingindlovu",
+  "sum_2014_2015" : "2276"
+}
+, {
+  "station" : "Giyani",
+  "sum_2014_2015" : "9413"
+}
+, {
+  "station" : "Glen",
+  "sum_2014_2015" : "603"
+}
+, {
+  "station" : "Glencoe",
+  "sum_2014_2015" : "1807"
+}
+, {
+  "station" : "Glendale",
+  "sum_2014_2015" : "776"
+}
+, {
+  "station" : "Glen Grey",
+  "sum_2014_2015" : "896"
+}
+, {
+  "station" : "Gluckstadt",
+  "sum_2014_2015" : "1249"
+}
+, {
+  "station" : "Goedemoed",
+  "sum_2014_2015" : "229"
+}
+, {
+  "station" : "Gonubie",
+  "sum_2014_2015" : "3434"
+}
+, {
+  "station" : "Goodwood",
+  "sum_2014_2015" : "14814"
+}
+, {
+  "station" : "Gordons Bay",
+  "sum_2014_2015" : "4537"
+}
+, {
+  "station" : "Gowan Lea",
+  "sum_2014_2015" : "1441"
+}
+, {
+  "station" : "Graaff-Reinet",
+  "sum_2014_2015" : "6147"
+}
+, {
+  "station" : "Graafwater",
+  "sum_2014_2015" : "832"
+}
+, {
+  "station" : "Grabouw",
+  "sum_2014_2015" : "9228"
+}
+, {
+  "station" : "Grahamstown",
+  "sum_2014_2015" : "9874"
+}
+, {
+  "station" : "Graskop",
+  "sum_2014_2015" : "778"
+}
+, {
+  "station" : "Grassy Park",
+  "sum_2014_2015" : "21071"
+}
+, {
+  "station" : "Gravelotte",
+  "sum_2014_2015" : "442"
+}
+, {
+  "station" : "Greenwood Park",
+  "sum_2014_2015" : "12748"
+}
+, {
+  "station" : "Greylingstad",
+  "sum_2014_2015" : "876"
+}
+, {
+  "station" : "Greytown",
+  "sum_2014_2015" : "5344"
+}
+, {
+  "station" : "Griekwastad",
+  "sum_2014_2015" : "824"
+}
+, {
+  "station" : "Groblersdal",
+  "sum_2014_2015" : "4981"
+}
+, {
+  "station" : "Groblershoop",
+  "sum_2014_2015" : "1489"
+}
+, {
+  "station" : "Groenvlei",
+  "sum_2014_2015" : "229"
+}
+, {
+  "station" : "Groot Brakrivier",
+  "sum_2014_2015" : "2789"
+}
+, {
+  "station" : "Groot-Drakenstein",
+  "sum_2014_2015" : "2447"
+}
+, {
+  "station" : "Groot Marico",
+  "sum_2014_2015" : "622"
+}
+, {
+  "station" : "Grootvlei",
+  "sum_2014_2015" : "1261"
+}
+, {
+  "station" : "Gugulethu",
+  "sum_2014_2015" : "20064"
+}
+, {
+  "station" : "Haenertsburg",
+  "sum_2014_2015" : "776"
+}
+, {
+  "station" : "Hamburg",
+  "sum_2014_2015" : "159"
+}
+, {
+  "station" : "Hammanskraal",
+  "sum_2014_2015" : "9300"
+}
+, {
+  "station" : "Hammarsdale",
+  "sum_2014_2015" : "1746"
+}
+, {
+  "station" : "Hankey",
+  "sum_2014_2015" : "1438"
+}
+, {
+  "station" : "Hanover",
+  "sum_2014_2015" : "803"
+}
+, {
+  "station" : "Harare",
+  "sum_2014_2015" : "21595"
+}
+, {
+  "station" : "Harburg",
+  "sum_2014_2015" : "771"
+}
+, {
+  "station" : "Harding",
+  "sum_2014_2015" : "3520"
+}
+, {
+  "station" : "Harrismith",
+  "sum_2014_2015" : "7770"
+}
+, {
+  "station" : "Hartbeesfontein",
+  "sum_2014_2015" : "1663"
+}
+, {
+  "station" : "Hartbeespoortdam",
+  "sum_2014_2015" : "7429"
+}
+, {
+  "station" : "Hartebeeskop",
+  "sum_2014_2015" : "756"
+}
+, {
+  "station" : "Hartswater",
+  "sum_2014_2015" : "2793"
+}
+, {
+  "station" : "Hattingspruit",
+  "sum_2014_2015" : "523"
+}
+, {
+  "station" : "Hazyview",
+  "sum_2014_2015" : "5439"
+}
+, {
+  "station" : "Healdtown",
+  "sum_2014_2015" : "331"
+}
+, {
+  "station" : "Hebron",
+  "sum_2014_2015" : "4817"
+}
+, {
+  "station" : "Heidedal",
+  "sum_2014_2015" : "6608"
+}
+, {
+  "station" : "Heidelberg(C)",
+  "sum_2014_2015" : "2672"
+}
+, {
+  "station" : "Heidelberg (Gp)",
+  "sum_2014_2015" : "6076"
+}
+, {
+  "station" : "Heilbron",
+  "sum_2014_2015" : "3235"
+}
+, {
+  "station" : "Hekpoort",
+  "sum_2014_2015" : "1037"
+}
+, {
+  "station" : "Helpmekaar",
+  "sum_2014_2015" : "402"
+}
+, {
+  "station" : "Henderson",
+  "sum_2014_2015" : "105"
+}
+, {
+  "station" : "Hendrina",
+  "sum_2014_2015" : "2927"
+}
+, {
+  "station" : "Hennenman",
+  "sum_2014_2015" : "3006"
+}
+, {
+  "station" : "Hercules",
+  "sum_2014_2015" : "11180"
+}
+, {
+  "station" : "Hermanus",
+  "sum_2014_2015" : "10862"
+}
+, {
+  "station" : "Hertzogville",
+  "sum_2014_2015" : "1154"
+}
+, {
+  "station" : "Heuningspruit",
+  "sum_2014_2015" : "147"
+}
+, {
+  "station" : "Heuningvlei",
+  "sum_2014_2015" : "290"
+}
+, {
+  "station" : "Hibberdene",
+  "sum_2014_2015" : "6332"
+}
+, {
+  "station" : "Highflats",
+  "sum_2014_2015" : "3271"
+}
+, {
+  "station" : "Hillbrow",
+  "sum_2014_2015" : "31835"
+}
+, {
+  "station" : "Hillcrest",
+  "sum_2014_2015" : "10790"
+}
+, {
+  "station" : "Hilton-Kzn",
+  "sum_2014_2015" : "1549"
+}
+, {
+  "station" : "Himeville",
+  "sum_2014_2015" : "2300"
+}
+, {
+  "station" : "Hlababomvu",
+  "sum_2014_2015" : "559"
+}
+, {
+  "station" : "Hlabisa",
+  "sum_2014_2015" : "1362"
+}
+, {
+  "station" : "Hlanganani",
+  "sum_2014_2015" : "2257"
+}
+, {
+  "station" : "Hlobane",
+  "sum_2014_2015" : "1951"
+}
+, {
+  "station" : "Hlogotlou",
+  "sum_2014_2015" : "3370"
+}
+, {
+  "station" : "Hluhluwe",
+  "sum_2014_2015" : "2693"
+}
+, {
+  "station" : "Hobhouse",
+  "sum_2014_2015" : "435"
+}
+, {
+  "station" : "Hoedspruit",
+  "sum_2014_2015" : "2280"
+}
+, {
+  "station" : "Hofmeyr",
+  "sum_2014_2015" : "691"
+}
+, {
+  "station" : "Hogsback",
+  "sum_2014_2015" : "265"
+}
+, {
+  "station" : "Hondeklip Bay",
+  "sum_2014_2015" : "120"
+}
+, {
+  "station" : "Honeydew",
+  "sum_2014_2015" : "40283"
+}
+, {
+  "station" : "Hoopdal",
+  "sum_2014_2015" : "94"
+}
+, {
+  "station" : "Hoopstad",
+  "sum_2014_2015" : "2123"
+}
+, {
+  "station" : "Hopefield",
+  "sum_2014_2015" : "1161"
+}
+, {
+  "station" : "Hopetown",
+  "sum_2014_2015" : "1818"
+}
+, {
+  "station" : "Hout Bay",
+  "sum_2014_2015" : "7025"
+}
+, {
+  "station" : "Howick",
+  "sum_2014_2015" : "4630"
+}
+, {
+  "station" : "Huhudi",
+  "sum_2014_2015" : "2794"
+}
+, {
+  "station" : "Humansdorp",
+  "sum_2014_2015" : "4293"
+}
+, {
+  "station" : "Humewood",
+  "sum_2014_2015" : "15719"
+}
+, {
+  "station" : "Ibisi",
+  "sum_2014_2015" : "2438"
+}
+, {
+  "station" : "Ida",
+  "sum_2014_2015" : "51"
+}
+, {
+  "station" : "Ikageng",
+  "sum_2014_2015" : "11286"
+}
+, {
+  "station" : "Ikamvelihle",
+  "sum_2014_2015" : "4106"
+}
+, {
+  "station" : "Ilinge",
+  "sum_2014_2015" : "674"
+}
+, {
+  "station" : "Impendle",
+  "sum_2014_2015" : "1371"
+}
+, {
+  "station" : "Inanda",
+  "sum_2014_2015" : "20742"
+}
+, {
+  "station" : "Inchanga",
+  "sum_2014_2015" : "2560"
+}
+, {
+  "station" : "Indwe",
+  "sum_2014_2015" : "975"
+}
+, {
+  "station" : "Ingogo",
+  "sum_2014_2015" : "375"
+}
+, {
+  "station" : "Ingwavuma",
+  "sum_2014_2015" : "1668"
+}
+, {
+  "station" : "Int Airp King Shaka",
+  "sum_2014_2015" : "1557"
+}
+, {
+  "station" : "Intsikeni",
+  "sum_2014_2015" : "1854"
+}
+, {
+  "station" : "Inyibiba",
+  "sum_2014_2015" : "4003"
+}
+, {
+  "station" : "Ipelegeng",
+  "sum_2014_2015" : "1415"
+}
+, {
+  "station" : "Isipingo",
+  "sum_2014_2015" : "8763"
+}
+, {
+  "station" : "Itsoseng",
+  "sum_2014_2015" : "3975"
+}
+, {
+  "station" : "Ivory Park",
+  "sum_2014_2015" : "18211"
+}
+, {
+  "station" : "Ixopo",
+  "sum_2014_2015" : "3450"
+}
+, {
+  "station" : "Jabulani",
+  "sum_2014_2015" : "13893"
+}
+, {
+  "station" : "Jacobsdal",
+  "sum_2014_2015" : "730"
+}
+, {
+  "station" : "Jagersfontein",
+  "sum_2014_2015" : "364"
+}
+, {
+  "station" : "Jamestown",
+  "sum_2014_2015" : "562"
+}
+, {
+  "station" : "Jane Furse",
+  "sum_2014_2015" : "3792"
+}
+, {
+  "station" : "Jan Kempdorp",
+  "sum_2014_2015" : "2421"
+}
+, {
+  "station" : "Jansenville",
+  "sum_2014_2015" : "611"
+}
+, {
+  "station" : "Jeffreys Bay",
+  "sum_2014_2015" : "5572"
+}
+, {
+  "station" : "Jeppe",
+  "sum_2014_2015" : "19461"
+}
+, {
+  "station" : "Jericho",
+  "sum_2014_2015" : "1586"
+}
+, {
+  "station" : "Jhb Central",
+  "sum_2014_2015" : "45704"
+}
+, {
+  "station" : "Joubertina",
+  "sum_2014_2015" : "3789"
+}
+, {
+  "station" : "Jouberton",
+  "sum_2014_2015" : "11012"
+}
+, {
+  "station" : "Joza",
+  "sum_2014_2015" : "5883"
+}
+, {
+  "station" : "Jozini",
+  "sum_2014_2015" : "2819"
+}
+, {
+  "station" : "Kaapmuiden",
+  "sum_2014_2015" : "321"
+}
+, {
+  "station" : "Kabega Park",
+  "sum_2014_2015" : "11073"
+}
+, {
+  "station" : "Kabokweni",
+  "sum_2014_2015" : "6702"
+}
+, {
+  "station" : "Kagisanong",
+  "sum_2014_2015" : "11459"
+}
+, {
+  "station" : "Kagisho",
+  "sum_2014_2015" : "4800"
+}
+, {
+  "station" : "Kagiso",
+  "sum_2014_2015" : "19909"
+}
+, {
+  "station" : "Kakamas",
+  "sum_2014_2015" : "3653"
+}
+, {
+  "station" : "Kameeldrift",
+  "sum_2014_2015" : "4039"
+}
+, {
+  "station" : "Kamesh",
+  "sum_2014_2015" : "6009"
+}
+, {
+  "station" : "Kamieskroon",
+  "sum_2014_2015" : "572"
+}
+, {
+  "station" : "Kanana",
+  "sum_2014_2015" : "4832"
+}
+, {
+  "station" : "Kanoneiland",
+  "sum_2014_2015" : "301"
+}
+, {
+  "station" : "Kanyamazane",
+  "sum_2014_2015" : "3885"
+}
+, {
+  "station" : "Kareedouw",
+  "sum_2014_2015" : "895"
+}
+, {
+  "station" : "Kathu",
+  "sum_2014_2015" : "3824"
+}
+, {
+  "station" : "Katkop",
+  "sum_2014_2015" : "818"
+}
+, {
+  "station" : "Katlehong",
+  "sum_2014_2015" : "13346"
+}
+, {
+  "station" : "Katlehong North",
+  "sum_2014_2015" : "7931"
+}
+, {
+  "station" : "Kei Bridge",
+  "sum_2014_2015" : "368"
+}
+, {
+  "station" : "Keimoes",
+  "sum_2014_2015" : "2193"
+}
+, {
+  "station" : "Kei Mouth",
+  "sum_2014_2015" : "443"
+}
+, {
+  "station" : "Kei Road",
+  "sum_2014_2015" : "546"
+}
+, {
+  "station" : "Keiskammahoek",
+  "sum_2014_2015" : "2786"
+}
+, {
+  "station" : "Kempton Park",
+  "sum_2014_2015" : "23660"
+}
+, {
+  "station" : "Kenhardt",
+  "sum_2014_2015" : "742"
+}
+, {
+  "station" : "Kensington",
+  "sum_2014_2015" : "5352"
+}
+, {
+  "station" : "Kenton On Sea",
+  "sum_2014_2015" : "1881"
+}
+, {
+  "station" : "Kestell",
+  "sum_2014_2015" : "1069"
+}
+, {
+  "station" : "Kgomotso",
+  "sum_2014_2015" : "1567"
+}
+, {
+  "station" : "Khayelitsha",
+  "sum_2014_2015" : "22728"
+}
+, {
+  "station" : "Khubusidrift",
+  "sum_2014_2015" : "164"
+}
+, {
+  "station" : "Khuma",
+  "sum_2014_2015" : "3788"
+}
+, {
+  "station" : "Khutsong",
+  "sum_2014_2015" : "5529"
+}
+, {
+  "station" : "Kidds Beach",
+  "sum_2014_2015" : "1030"
+}
+, {
+  "station" : "Kimberley",
+  "sum_2014_2015" : "21153"
+}
+, {
+  "station" : "Kingsley",
+  "sum_2014_2015" : "348"
+}
+, {
+  "station" : "King William'S Town",
+  "sum_2014_2015" : "12617"
+}
+, {
+  "station" : "Kinkelbos",
+  "sum_2014_2015" : "580"
+}
+, {
+  "station" : "Kinross",
+  "sum_2014_2015" : "1545"
+}
+, {
+  "station" : "Kirkwood",
+  "sum_2014_2015" : "3611"
+}
+, {
+  "station" : "Kirstenhof",
+  "sum_2014_2015" : "9466"
+}
+, {
+  "station" : "Klapmuts",
+  "sum_2014_2015" : "3588"
+}
+, {
+  "station" : "Klawer",
+  "sum_2014_2015" : "1340"
+}
+, {
+  "station" : "Kleinbulhoek",
+  "sum_2014_2015" : "335"
+}
+, {
+  "station" : "Kleinmond",
+  "sum_2014_2015" : "5081"
+}
+, {
+  "station" : "Kleinsee",
+  "sum_2014_2015" : "88"
+}
+, {
+  "station" : "Kleinvlei",
+  "sum_2014_2015" : "23616"
+}
+, {
+  "station" : "Klerksdorp",
+  "sum_2014_2015" : "19617"
+}
+, {
+  "station" : "Klerkskraal",
+  "sum_2014_2015" : "367"
+}
+, {
+  "station" : "Klipgat",
+  "sum_2014_2015" : "3969"
+}
+, {
+  "station" : "Klipplaat",
+  "sum_2014_2015" : "624"
+}
+, {
+  "station" : "Kliprivier",
+  "sum_2014_2015" : "2644"
+}
+, {
+  "station" : "Kliptown",
+  "sum_2014_2015" : "18740"
+}
+, {
+  "station" : "Knysna",
+  "sum_2014_2015" : "19525"
+}
+, {
+  "station" : "Koffiefontein",
+  "sum_2014_2015" : "1628"
+}
+, {
+  "station" : "Kokstad",
+  "sum_2014_2015" : "6689"
+}
+, {
+  "station" : "Kolomane",
+  "sum_2014_2015" : "86"
+}
+, {
+  "station" : "Komaggas",
+  "sum_2014_2015" : "338"
+}
+, {
+  "station" : "Komatipoort",
+  "sum_2014_2015" : "2284"
+}
+, {
+  "station" : "Komga",
+  "sum_2014_2015" : "1338"
+}
+, {
+  "station" : "Kommissiepoort",
+  "sum_2014_2015" : "195"
+}
+, {
+  "station" : "Kopanong",
+  "sum_2014_2015" : "6292"
+}
+, {
+  "station" : "Koppies",
+  "sum_2014_2015" : "1221"
+}
+, {
+  "station" : "Koster",
+  "sum_2014_2015" : "2537"
+}
+, {
+  "station" : "Kraaifontein",
+  "sum_2014_2015" : "32017"
+}
+, {
+  "station" : "Kranskop",
+  "sum_2014_2015" : "2189"
+}
+, {
+  "station" : "Kriel",
+  "sum_2014_2015" : "4078"
+}
+, {
+  "station" : "Kroonstad",
+  "sum_2014_2015" : "6201"
+}
+, {
+  "station" : "Krugersdorp",
+  "sum_2014_2015" : "22675"
+}
+, {
+  "station" : "Kuilsrivier",
+  "sum_2014_2015" : "21644"
+}
+, {
+  "station" : "Kuruman",
+  "sum_2014_2015" : "6048"
+}
+, {
+  "station" : "Kuyasa",
+  "sum_2014_2015" : "741"
+}
+, {
+  "station" : "Kwaaiman",
+  "sum_2014_2015" : "993"
+}
+, {
+  "station" : "Kwadabeka",
+  "sum_2014_2015" : "7675"
+}
+, {
+  "station" : "Kwadukuza",
+  "sum_2014_2015" : "21289"
+}
+, {
+  "station" : "Kwadwesi",
+  "sum_2014_2015" : "5387"
+}
+, {
+  "station" : "Kwaggafontein",
+  "sum_2014_2015" : "3591"
+}
+, {
+  "station" : "Kwamakhutha",
+  "sum_2014_2015" : "6768"
+}
+, {
+  "station" : "Kwamashu E",
+  "sum_2014_2015" : "13317"
+}
+, {
+  "station" : "Kwambonambi",
+  "sum_2014_2015" : "6793"
+}
+, {
+  "station" : "Kwamhlanga",
+  "sum_2014_2015" : "9102"
+}
+, {
+  "station" : "Kwamsane",
+  "sum_2014_2015" : "5493"
+}
+, {
+  "station" : "Kwandengane",
+  "sum_2014_2015" : "397"
+}
+, {
+  "station" : "Kwandengezi",
+  "sum_2014_2015" : "5395"
+}
+, {
+  "station" : "Kwanobuhle",
+  "sum_2014_2015" : "8107"
+}
+, {
+  "station" : "Kwanokuthula",
+  "sum_2014_2015" : "3275"
+}
+, {
+  "station" : "Kwanonqaba",
+  "sum_2014_2015" : "8089"
+}
+, {
+  "station" : "Kwa Thema",
+  "sum_2014_2015" : "9978"
+}
+, {
+  "station" : "Kwazakele",
+  "sum_2014_2015" : "14465"
+}
+, {
+  "station" : "Laaiplek",
+  "sum_2014_2015" : "1964"
+}
+, {
+  "station" : "Ladismith",
+  "sum_2014_2015" : "2764"
+}
+, {
+  "station" : "Ladybrand",
+  "sum_2014_2015" : "3508"
+}
+, {
+  "station" : "Lady Frere",
+  "sum_2014_2015" : "2723"
+}
+, {
+  "station" : "Lady Grey",
+  "sum_2014_2015" : "1039"
+}
+, {
+  "station" : "Ladysmith",
+  "sum_2014_2015" : "14989"
+}
+, {
+  "station" : "Laersdrift",
+  "sum_2014_2015" : "586"
+}
+, {
+  "station" : "Laingsburg",
+  "sum_2014_2015" : "2579"
+}
+, {
+  "station" : "Lambertsbaai",
+  "sum_2014_2015" : "1535"
+}
+, {
+  "station" : "Lamontville",
+  "sum_2014_2015" : "3246"
+}
+, {
+  "station" : "Langa",
+  "sum_2014_2015" : "9714"
+}
+, {
+  "station" : "Langebaan",
+  "sum_2014_2015" : "1867"
+}
+, {
+  "station" : "Langlaagte",
+  "sum_2014_2015" : "7597"
+}
+, {
+  "station" : "Lansdowne",
+  "sum_2014_2015" : "11699"
+}
+, {
+  "station" : "Laudium",
+  "sum_2014_2015" : "3955"
+}
+, {
+  "station" : "Leboeng",
+  "sum_2014_2015" : "695"
+}
+, {
+  "station" : "Lebowakgomo",
+  "sum_2014_2015" : "9257"
+}
+, {
+  "station" : "Leeudoringstad",
+  "sum_2014_2015" : "1422"
+}
+, {
+  "station" : "Leeu Gamka",
+  "sum_2014_2015" : "1070"
+}
+, {
+  "station" : "Lehurutshe",
+  "sum_2014_2015" : "3358"
+}
+, {
+  "station" : "Lenasia",
+  "sum_2014_2015" : "13452"
+}
+, {
+  "station" : "Lenasia South",
+  "sum_2014_2015" : "8048"
+}
+, {
+  "station" : "Lentegeur",
+  "sum_2014_2015" : "24712"
+}
+, {
+  "station" : "Lephalale",
+  "sum_2014_2015" : "7355"
+}
+, {
+  "station" : "Leslie",
+  "sum_2014_2015" : "3069"
+}
+, {
+  "station" : "Lethabong",
+  "sum_2014_2015" : "1561"
+}
+, {
+  "station" : "Lethlabile",
+  "sum_2014_2015" : "7398"
+}
+, {
+  "station" : "Letsitele",
+  "sum_2014_2015" : "4844"
+}
+, {
+  "station" : "Levubu",
+  "sum_2014_2015" : "3711"
+}
+, {
+  "station" : "Libode",
+  "sum_2014_2015" : "4677"
+}
+, {
+  "station" : "Lichtenburg",
+  "sum_2014_2015" : "8478"
+}
+, {
+  "station" : "Lime Acres",
+  "sum_2014_2015" : "351"
+}
+, {
+  "station" : "Linden",
+  "sum_2014_2015" : "17416"
+}
+, {
+  "station" : "Lindley",
+  "sum_2014_2015" : "903"
+}
+, {
+  "station" : "Lingelethu-West",
+  "sum_2014_2015" : "12273"
+}
+, {
+  "station" : "Loate",
+  "sum_2014_2015" : "12861"
+}
+, {
+  "station" : "Loeriesfontein",
+  "sum_2014_2015" : "444"
+}
+, {
+  "station" : "Lomanyaneng",
+  "sum_2014_2015" : "2713"
+}
+, {
+  "station" : "Lothair",
+  "sum_2014_2015" : "702"
+}
+, {
+  "station" : "Louwsburg",
+  "sum_2014_2015" : "660"
+}
+, {
+  "station" : "Low'S Creek",
+  "sum_2014_2015" : "430"
+}
+, {
+  "station" : "Loxton",
+  "sum_2014_2015" : "307"
+}
+, {
+  "station" : "Luckhoff",
+  "sum_2014_2015" : "458"
+}
+, {
+  "station" : "Lukholweni",
+  "sum_2014_2015" : "330"
+}
+, {
+  "station" : "Lulekani",
+  "sum_2014_2015" : "1893"
+}
+, {
+  "station" : "Lusikisiki",
+  "sum_2014_2015" : "7182"
+}
+, {
+  "station" : "Lutzville",
+  "sum_2014_2015" : "2867"
+}
+, {
+  "station" : "Lwandle",
+  "sum_2014_2015" : "8099"
+}
+, {
+  "station" : "Lydenburg",
+  "sum_2014_2015" : "5374"
+}
+, {
+  "station" : "Lyttelton",
+  "sum_2014_2015" : "20509"
+}
+, {
+  "station" : "Maake",
+  "sum_2014_2015" : "7504"
+}
+, {
+  "station" : "Maartenshoop",
+  "sum_2014_2015" : "276"
+}
+, {
+  "station" : "Mabopane",
+  "sum_2014_2015" : "10777"
+}
+, {
+  "station" : "Macassar",
+  "sum_2014_2015" : "8590"
+}
+, {
+  "station" : "Machadodorp",
+  "sum_2014_2015" : "1014"
+}
+, {
+  "station" : "Macleantown",
+  "sum_2014_2015" : "590"
+}
+, {
+  "station" : "Maclear",
+  "sum_2014_2015" : "2179"
+}
+, {
+  "station" : "Madadeni",
+  "sum_2014_2015" : "14280"
+}
+, {
+  "station" : "Madeira",
+  "sum_2014_2015" : "10925"
+}
+, {
+  "station" : "Madibogo",
+  "sum_2014_2015" : "1667"
+}
+, {
+  "station" : "Madikwe",
+  "sum_2014_2015" : "2298"
+}
+, {
+  "station" : "Mafube",
+  "sum_2014_2015" : "2619"
+}
+, {
+  "station" : "Magaliesburg",
+  "sum_2014_2015" : "2179"
+}
+, {
+  "station" : "Magatle",
+  "sum_2014_2015" : "3006"
+}
+, {
+  "station" : "Magudu",
+  "sum_2014_2015" : "575"
+}
+, {
+  "station" : "Mahamba",
+  "sum_2014_2015" : "362"
+}
+, {
+  "station" : "Mahikeng",
+  "sum_2014_2015" : "11940"
+}
+, {
+  "station" : "Mahlabathini",
+  "sum_2014_2015" : "1330"
+}
+, {
+  "station" : "Mahwelereng",
+  "sum_2014_2015" : "9988"
+}
+, {
+  "station" : "Maitland",
+  "sum_2014_2015" : "6658"
+}
+, {
+  "station" : "Makapanstad",
+  "sum_2014_2015" : "4174"
+}
+, {
+  "station" : "Makgobistad",
+  "sum_2014_2015" : "596"
+}
+, {
+  "station" : "Makhado",
+  "sum_2014_2015" : "7877"
+}
+, {
+  "station" : "Makuya",
+  "sum_2014_2015" : "637"
+}
+, {
+  "station" : "Makwane",
+  "sum_2014_2015" : "3323"
+}
+, {
+  "station" : "Makwassie",
+  "sum_2014_2015" : "1564"
+}
+, {
+  "station" : "Malamulele",
+  "sum_2014_2015" : "4262"
+}
+, {
+  "station" : "Maleboho",
+  "sum_2014_2015" : "859"
+}
+, {
+  "station" : "Malelane",
+  "sum_2014_2015" : "1416"
+}
+, {
+  "station" : "Maletswai",
+  "sum_2014_2015" : "1387"
+}
+, {
+  "station" : "Malipsdrift",
+  "sum_2014_2015" : "514"
+}
+, {
+  "station" : "Malmesbury",
+  "sum_2014_2015" : "10662"
+}
+, {
+  "station" : "Maluti",
+  "sum_2014_2015" : "3949"
+}
+, {
+  "station" : "Malvern",
+  "sum_2014_2015" : "4127"
+}
+, {
+  "station" : "Mamelodi",
+  "sum_2014_2015" : "9709"
+}
+, {
+  "station" : "Mamelodi East",
+  "sum_2014_2015" : "16980"
+}
+, {
+  "station" : "Mandeni",
+  "sum_2014_2015" : "2126"
+}
+, {
+  "station" : "Manenberg",
+  "sum_2014_2015" : "22836"
+}
+, {
+  "station" : "Mangaung",
+  "sum_2014_2015" : "7883"
+}
+, {
+  "station" : "Mankweng",
+  "sum_2014_2015" : "16526"
+}
+, {
+  "station" : "Maokeng",
+  "sum_2014_2015" : "6266"
+}
+, {
+  "station" : "Maphumulo",
+  "sum_2014_2015" : "3225"
+}
+, {
+  "station" : "Mara",
+  "sum_2014_2015" : "865"
+}
+, {
+  "station" : "Marble Hall",
+  "sum_2014_2015" : "4743"
+}
+, {
+  "station" : "Margate",
+  "sum_2014_2015" : "13528"
+}
+, {
+  "station" : "Mariannhill",
+  "sum_2014_2015" : "12801"
+}
+, {
+  "station" : "Marikana",
+  "sum_2014_2015" : "3878"
+}
+, {
+  "station" : "Marquard",
+  "sum_2014_2015" : "909"
+}
+, {
+  "station" : "Marydale",
+  "sum_2014_2015" : "516"
+}
+, {
+  "station" : "Masemola",
+  "sum_2014_2015" : "1332"
+}
+, {
+  "station" : "Mashashane",
+  "sum_2014_2015" : "1625"
+}
+, {
+  "station" : "Masisi",
+  "sum_2014_2015" : "848"
+}
+, {
+  "station" : "Masoyi",
+  "sum_2014_2015" : "5451"
+}
+, {
+  "station" : "Matatiele",
+  "sum_2014_2015" : "3030"
+}
+, {
+  "station" : "Matlala",
+  "sum_2014_2015" : "3658"
+}
+, {
+  "station" : "Matsulu",
+  "sum_2014_2015" : "3825"
+}
+, {
+  "station" : "Maydon Wharf",
+  "sum_2014_2015" : "639"
+}
+, {
+  "station" : "Mayflower",
+  "sum_2014_2015" : "1720"
+}
+, {
+  "station" : "Mayville-Kzn",
+  "sum_2014_2015" : "7327"
+}
+, {
+  "station" : "Mbazwana",
+  "sum_2014_2015" : "2424"
+}
+, {
+  "station" : "Mbekweni",
+  "sum_2014_2015" : "6084"
+}
+, {
+  "station" : "Mbizana",
+  "sum_2014_2015" : "5139"
+}
+, {
+  "station" : "Mbizeni",
+  "sum_2014_2015" : "13"
+}
+, {
+  "station" : "Mbongolwane",
+  "sum_2014_2015" : "1060"
+}
+, {
+  "station" : "Mbuzini",
+  "sum_2014_2015" : "390"
+}
+, {
+  "station" : "Mcgregor",
+  "sum_2014_2015" : "658"
+}
+, {
+  "station" : "Mdantsane",
+  "sum_2014_2015" : "9468"
+}
+, {
+  "station" : "Meadowlands",
+  "sum_2014_2015" : "17374"
+}
+, {
+  "station" : "Mecklenburg",
+  "sum_2014_2015" : "4998"
+}
+, {
+  "station" : "Mehlomnyama",
+  "sum_2014_2015" : "1388"
+}
+, {
+  "station" : "Melkbosstrand",
+  "sum_2014_2015" : "1802"
+}
+, {
+  "station" : "Melmoth",
+  "sum_2014_2015" : "4483"
+}
+, {
+  "station" : "Meloding",
+  "sum_2014_2015" : "2880"
+}
+, {
+  "station" : "Memel",
+  "sum_2014_2015" : "625"
+}
+, {
+  "station" : "Meyerton",
+  "sum_2014_2015" : "8545"
+}
+, {
+  "station" : "Mfuleni",
+  "sum_2014_2015" : "21590"
+}
+, {
+  "station" : "Mhala",
+  "sum_2014_2015" : "4157"
+}
+, {
+  "station" : "Mhluzi",
+  "sum_2014_2015" : "8026"
+}
+, {
+  "station" : "Middelburg(Ec)",
+  "sum_2014_2015" : "2786"
+}
+, {
+  "station" : "Middelburg Mpumalang",
+  "sum_2014_2015" : "20098"
+}
+, {
+  "station" : "Middelpos",
+  "sum_2014_2015" : "71"
+}
+, {
+  "station" : "Middledrift",
+  "sum_2014_2015" : "1272"
+}
+, {
+  "station" : "Mid Illovo",
+  "sum_2014_2015" : "650"
+}
+, {
+  "station" : "Midrand",
+  "sum_2014_2015" : "23458"
+}
+, {
+  "station" : "Milnerton",
+  "sum_2014_2015" : "23694"
+}
+, {
+  "station" : "Mitchells Plain",
+  "sum_2014_2015" : "57061"
+}
+, {
+  "station" : "Mkhuze",
+  "sum_2014_2015" : "1286"
+}
+, {
+  "station" : "Mlungisi",
+  "sum_2014_2015" : "3935"
+}
+, {
+  "station" : "Mmabatho",
+  "sum_2014_2015" : "12733"
+}
+, {
+  "station" : "Mmakau",
+  "sum_2014_2015" : "3629"
+}
+, {
+  "station" : "Mmametlake",
+  "sum_2014_2015" : "3608"
+}
+, {
+  "station" : "Modder River",
+  "sum_2014_2015" : "2596"
+}
+, {
+  "station" : "Modimolle",
+  "sum_2014_2015" : "7272"
+}
+, {
+  "station" : "Modjadjiskloof",
+  "sum_2014_2015" : "2360"
+}
+, {
+  "station" : "Moffatview",
+  "sum_2014_2015" : "16499"
+}
+, {
+  "station" : "Mogwadi",
+  "sum_2014_2015" : "1728"
+}
+, {
+  "station" : "Mogwase",
+  "sum_2014_2015" : "8584"
+}
+, {
+  "station" : "Mokopane",
+  "sum_2014_2015" : "7983"
+}
+, {
+  "station" : "Mokopong",
+  "sum_2014_2015" : "24"
+}
+, {
+  "station" : "Molteno",
+  "sum_2014_2015" : "1164"
+}
+, {
+  "station" : "Mondeor",
+  "sum_2014_2015" : "17649"
+}
+, {
+  "station" : "Mondlo",
+  "sum_2014_2015" : "5064"
+}
+, {
+  "station" : "Montagu",
+  "sum_2014_2015" : "3109"
+}
+, {
+  "station" : "Montclair",
+  "sum_2014_2015" : "8944"
+}
+, {
+  "station" : "Mooifontein",
+  "sum_2014_2015" : "966"
+}
+, {
+  "station" : "Mooinooi",
+  "sum_2014_2015" : "6382"
+}
+, {
+  "station" : "Mooiplaas",
+  "sum_2014_2015" : "428"
+}
+, {
+  "station" : "Mooi River",
+  "sum_2014_2015" : "2759"
+}
+, {
+  "station" : "Moorreesburg",
+  "sum_2014_2015" : "3121"
+}
+, {
+  "station" : "Morebeng",
+  "sum_2014_2015" : "1020"
+}
+, {
+  "station" : "Morgenzon Transvaal",
+  "sum_2014_2015" : "1113"
+}
+, {
+  "station" : "Moroka",
+  "sum_2014_2015" : "24085"
+}
+, {
+  "station" : "Morokweng",
+  "sum_2014_2015" : "869"
+}
+, {
+  "station" : "Mossel Bay",
+  "sum_2014_2015" : "4325"
+}
+, {
+  "station" : "Motetema",
+  "sum_2014_2015" : "5052"
+}
+, {
+  "station" : "Motherwell",
+  "sum_2014_2015" : "10308"
+}
+, {
+  "station" : "Mothibistad",
+  "sum_2014_2015" : "3557"
+}
+, {
+  "station" : "Mothutlung",
+  "sum_2014_2015" : "1679"
+}
+, {
+  "station" : "Motswedi",
+  "sum_2014_2015" : "1536"
+}
+, {
+  "station" : "Mountain Rise",
+  "sum_2014_2015" : "14061"
+}
+, {
+  "station" : "Mount Ayliff",
+  "sum_2014_2015" : "4017"
+}
+, {
+  "station" : "Mount Fletcher",
+  "sum_2014_2015" : "3336"
+}
+, {
+  "station" : "Mount Frere",
+  "sum_2014_2015" : "7045"
+}
+, {
+  "station" : "Mount Road",
+  "sum_2014_2015" : "20943"
+}
+, {
+  "station" : "Mowbray",
+  "sum_2014_2015" : "4282"
+}
+, {
+  "station" : "Moyeni",
+  "sum_2014_2015" : "437"
+}
+, {
+  "station" : "Mphephu",
+  "sum_2014_2015" : "4710"
+}
+, {
+  "station" : "Mpisi",
+  "sum_2014_2015" : "275"
+}
+, {
+  "station" : "Mpophomeni",
+  "sum_2014_2015" : "1781"
+}
+, {
+  "station" : "Mpumalanga Kzn",
+  "sum_2014_2015" : "6425"
+}
+, {
+  "station" : "Mpungamhlophe",
+  "sum_2014_2015" : "615"
+}
+, {
+  "station" : "Mqanduli",
+  "sum_2014_2015" : "2946"
+}
+, {
+  "station" : "Msinga",
+  "sum_2014_2015" : "3863"
+}
+, {
+  "station" : "Msinsini",
+  "sum_2014_2015" : "1454"
+}
+, {
+  "station" : "Msobomvu",
+  "sum_2014_2015" : "4184"
+}
+, {
+  "station" : "Mthatha",
+  "sum_2014_2015" : "11335"
+}
+, {
+  "station" : "Mtontsasa",
+  "sum_2014_2015" : "869"
+}
+, {
+  "station" : "Mtubatuba",
+  "sum_2014_2015" : "5726"
+}
+, {
+  "station" : "Mtunzini",
+  "sum_2014_2015" : "6066"
+}
+, {
+  "station" : "Muden",
+  "sum_2014_2015" : "548"
+}
+, {
+  "station" : "Muizenberg",
+  "sum_2014_2015" : "12884"
+}
+, {
+  "station" : "Muldersdrift",
+  "sum_2014_2015" : "6209"
+}
+, {
+  "station" : "Murraysburg",
+  "sum_2014_2015" : "1306"
+}
+, {
+  "station" : "Musina",
+  "sum_2014_2015" : "6371"
+}
+, {
+  "station" : "Mutale",
+  "sum_2014_2015" : "2292"
+}
+, {
+  "station" : "Mzamba",
+  "sum_2014_2015" : "2596"
+}
+, {
+  "station" : "Nababeep",
+  "sum_2014_2015" : "2088"
+}
+, {
+  "station" : "Naboomspruit",
+  "sum_2014_2015" : "4007"
+}
+, {
+  "station" : "Naledi",
+  "sum_2014_2015" : "7058"
+}
+, {
+  "station" : "Namahadi",
+  "sum_2014_2015" : "4188"
+}
+, {
+  "station" : "Namakgale",
+  "sum_2014_2015" : "4629"
+}
+, {
+  "station" : "Napier",
+  "sum_2014_2015" : "1134"
+}
+, {
+  "station" : "Navalsig",
+  "sum_2014_2015" : "4350"
+}
+, {
+  "station" : "Ndevana",
+  "sum_2014_2015" : "1998"
+}
+, {
+  "station" : "Ndumo",
+  "sum_2014_2015" : "736"
+}
+, {
+  "station" : "Ndwedwe",
+  "sum_2014_2015" : "3943"
+}
+, {
+  "station" : "Nebo",
+  "sum_2014_2015" : "3781"
+}
+, {
+  "station" : "Nelspruit",
+  "sum_2014_2015" : "21724"
+}
+, {
+  "station" : "Nemato",
+  "sum_2014_2015" : "2991"
+}
+, {
+  "station" : "Newark",
+  "sum_2014_2015" : "987"
+}
+, {
+  "station" : "New Brighton",
+  "sum_2014_2015" : "11462"
+}
+, {
+  "station" : "Newcastle",
+  "sum_2014_2015" : "13460"
+}
+, {
+  "station" : "New Hanover",
+  "sum_2014_2015" : "1544"
+}
+, {
+  "station" : "Newlands East",
+  "sum_2014_2015" : "7920"
+}
+, {
+  "station" : "Ngangelizwe",
+  "sum_2014_2015" : "2709"
+}
+, {
+  "station" : "Ngcobo",
+  "sum_2014_2015" : "4496"
+}
+, {
+  "station" : "Ngodwana",
+  "sum_2014_2015" : "620"
+}
+, {
+  "station" : "Ngome",
+  "sum_2014_2015" : "637"
+}
+, {
+  "station" : "Ngqamakhwe",
+  "sum_2014_2015" : "3347"
+}
+, {
+  "station" : "Ngqeleni",
+  "sum_2014_2015" : "5557"
+}
+, {
+  "station" : "Nhlanhleni",
+  "sum_2014_2015" : "1330"
+}
+, {
+  "station" : "Niekerkshoop",
+  "sum_2014_2015" : "378"
+}
+, {
+  "station" : "Nietverdiend",
+  "sum_2014_2015" : "494"
+}
+, {
+  "station" : "Nieuwoudtville",
+  "sum_2014_2015" : "408"
+}
+, {
+  "station" : "Nigel",
+  "sum_2014_2015" : "5710"
+}
+, {
+  "station" : "Nkandla",
+  "sum_2014_2015" : "1550"
+}
+, {
+  "station" : "Noenieput",
+  "sum_2014_2015" : "82"
+}
+, {
+  "station" : "Nondweni",
+  "sum_2014_2015" : "532"
+}
+, {
+  "station" : "Nongoma",
+  "sum_2014_2015" : "5720"
+}
+, {
+  "station" : "Norkempark",
+  "sum_2014_2015" : "12334"
+}
+, {
+  "station" : "Normandien",
+  "sum_2014_2015" : "352"
+}
+, {
+  "station" : "Northam",
+  "sum_2014_2015" : "4230"
+}
+, {
+  "station" : "Norvalspont",
+  "sum_2014_2015" : "211"
+}
+, {
+  "station" : "Norwood",
+  "sum_2014_2015" : "9568"
+}
+, {
+  "station" : "Nottingham Road",
+  "sum_2014_2015" : "1279"
+}
+, {
+  "station" : "Noupoort",
+  "sum_2014_2015" : "816"
+}
+, {
+  "station" : "Nquthu",
+  "sum_2014_2015" : "3238"
+}
+, {
+  "station" : "Nsuze",
+  "sum_2014_2015" : "1911"
+}
+, {
+  "station" : "Ntabamhlophe",
+  "sum_2014_2015" : "1943"
+}
+, {
+  "station" : "Ntabankulu",
+  "sum_2014_2015" : "3921"
+}
+, {
+  "station" : "Ntabethemba",
+  "sum_2014_2015" : "515"
+}
+, {
+  "station" : "Ntambanana",
+  "sum_2014_2015" : "1351"
+}
+, {
+  "station" : "Ntuzuma",
+  "sum_2014_2015" : "13904"
+}
+, {
+  "station" : "Nuwerus",
+  "sum_2014_2015" : "296"
+}
+, {
+  "station" : "Nyanga",
+  "sum_2014_2015" : "26376"
+}
+, {
+  "station" : "Nyoni",
+  "sum_2014_2015" : "2268"
+}
+, {
+  "station" : "Ocean View",
+  "sum_2014_2015" : "5561"
+}
+, {
+  "station" : "Odendaalsrus",
+  "sum_2014_2015" : "8670"
+}
+, {
+  "station" : "Ogies",
+  "sum_2014_2015" : "6109"
+}
+, {
+  "station" : "Ohrigstad",
+  "sum_2014_2015" : "355"
+}
+, {
+  "station" : "Olievenhoutbosch",
+  "sum_2014_2015" : "12981"
+}
+, {
+  "station" : "Olifantsfontein",
+  "sum_2014_2015" : "7061"
+}
+, {
+  "station" : "Olifantshoek",
+  "sum_2014_2015" : "903"
+}
+, {
+  "station" : "Onseepkans",
+  "sum_2014_2015" : "148"
+}
+, {
+  "station" : "Orange Farms",
+  "sum_2014_2015" : "17289"
+}
+, {
+  "station" : "Oranjeville",
+  "sum_2014_2015" : "618"
+}
+, {
+  "station" : "Orkney",
+  "sum_2014_2015" : "2971"
+}
+, {
+  "station" : "Orlando",
+  "sum_2014_2015" : "15944"
+}
+, {
+  "station" : "Or Tambo Intern Airp",
+  "sum_2014_2015" : "5737"
+}
+, {
+  "station" : "Osizweni",
+  "sum_2014_2015" : "11243"
+}
+, {
+  "station" : "Ottosdal",
+  "sum_2014_2015" : "1341"
+}
+, {
+  "station" : "Ottoshoop",
+  "sum_2014_2015" : "542"
+}
+, {
+  "station" : "Oudtshoorn",
+  "sum_2014_2015" : "17414"
+}
+, {
+  "station" : "Paarl",
+  "sum_2014_2015" : "19056"
+}
+, {
+  "station" : "Paarl East",
+  "sum_2014_2015" : "15094"
+}
+, {
+  "station" : "Pabalello",
+  "sum_2014_2015" : "2208"
+}
+, {
+  "station" : "Pacaltsdorp",
+  "sum_2014_2015" : "5657"
+}
+, {
+  "station" : "Paddock",
+  "sum_2014_2015" : "1778"
+}
+, {
+  "station" : "Palmietfontein",
+  "sum_2014_2015" : "1007"
+}
+, {
+  "station" : "Pampierstat",
+  "sum_2014_2015" : "2106"
+}
+, {
+  "station" : "Park Road",
+  "sum_2014_2015" : "38088"
+}
+, {
+  "station" : "Parkview",
+  "sum_2014_2015" : "10217"
+}
+, {
+  "station" : "Parow",
+  "sum_2014_2015" : "25726"
+}
+, {
+  "station" : "Parys",
+  "sum_2014_2015" : "2723"
+}
+, {
+  "station" : "Patensie",
+  "sum_2014_2015" : "1194"
+}
+, {
+  "station" : "Paterson",
+  "sum_2014_2015" : "673"
+}
+, {
+  "station" : "Paulpietersburg",
+  "sum_2014_2015" : "3885"
+}
+, {
+  "station" : "Paul Roux",
+  "sum_2014_2015" : "728"
+}
+, {
+  "station" : "Pearston",
+  "sum_2014_2015" : "567"
+}
+, {
+  "station" : "Peddie",
+  "sum_2014_2015" : "1688"
+}
+, {
+  "station" : "Pella",
+  "sum_2014_2015" : "144"
+}
+, {
+  "station" : "Perdekop",
+  "sum_2014_2015" : "525"
+}
+, {
+  "station" : "Petrusburg",
+  "sum_2014_2015" : "1101"
+}
+, {
+  "station" : "Petrus Steyn",
+  "sum_2014_2015" : "1056"
+}
+, {
+  "station" : "Petrusville",
+  "sum_2014_2015" : "766"
+}
+, {
+  "station" : "Phalaborwa",
+  "sum_2014_2015" : "3025"
+}
+, {
+  "station" : "Philadelphia",
+  "sum_2014_2015" : "1597"
+}
+, {
+  "station" : "Philippi",
+  "sum_2014_2015" : "16182"
+}
+, {
+  "station" : "Philippi East",
+  "sum_2014_2015" : "8945"
+}
+, {
+  "station" : "Philippolis",
+  "sum_2014_2015" : "426"
+}
+, {
+  "station" : "Philipstown",
+  "sum_2014_2015" : "514"
+}
+, {
+  "station" : "Phoenix",
+  "sum_2014_2015" : "32811"
+}
+, {
+  "station" : "Phokeng",
+  "sum_2014_2015" : "8667"
+}
+, {
+  "station" : "Phumalanga",
+  "sum_2014_2015" : "497"
+}
+, {
+  "station" : "Phuthaditjhaba",
+  "sum_2014_2015" : "10416"
+}
+, {
+  "station" : "Pienaar",
+  "sum_2014_2015" : "6393"
+}
+, {
+  "station" : "Pienaarsrivier",
+  "sum_2014_2015" : "662"
+}
+, {
+  "station" : "Pietermaritzburg",
+  "sum_2014_2015" : "21989"
+}
+, {
+  "station" : "Piet Plessis",
+  "sum_2014_2015" : "338"
+}
+, {
+  "station" : "Piet Retief",
+  "sum_2014_2015" : "8052"
+}
+, {
+  "station" : "Piketberg",
+  "sum_2014_2015" : "2647"
+}
+, {
+  "station" : "Pilgrim'S Rest",
+  "sum_2014_2015" : "326"
+}
+, {
+  "station" : "Pinelands",
+  "sum_2014_2015" : "6150"
+}
+, {
+  "station" : "Pinetown",
+  "sum_2014_2015" : "27694"
+}
+, {
+  "station" : "Plessislaer",
+  "sum_2014_2015" : "20484"
+}
+, {
+  "station" : "Plettenberg Bay",
+  "sum_2014_2015" : "8743"
+}
+, {
+  "station" : "Plooysburg",
+  "sum_2014_2015" : "151"
+}
+, {
+  "station" : "Pofadder",
+  "sum_2014_2015" : "774"
+}
+, {
+  "station" : "Point",
+  "sum_2014_2015" : "15218"
+}
+, {
+  "station" : "Polokwane",
+  "sum_2014_2015" : "22861"
+}
+, {
+  "station" : "Pongola",
+  "sum_2014_2015" : "6857"
+}
+, {
+  "station" : "Port Alfred",
+  "sum_2014_2015" : "3351"
+}
+, {
+  "station" : "Port Edward",
+  "sum_2014_2015" : "3320"
+}
+, {
+  "station" : "Porterville",
+  "sum_2014_2015" : "3213"
+}
+, {
+  "station" : "Port Nolloth",
+  "sum_2014_2015" : "1234"
+}
+, {
+  "station" : "Port Shepstone",
+  "sum_2014_2015" : "13768"
+}
+, {
+  "station" : "Port St Johns",
+  "sum_2014_2015" : "2617"
+}
+, {
+  "station" : "Postmasburg",
+  "sum_2014_2015" : "3657"
+}
+, {
+  "station" : "Potchefstroom",
+  "sum_2014_2015" : "17639"
+}
+, {
+  "station" : "Prestbury",
+  "sum_2014_2015" : "1704"
+}
+, {
+  "station" : "Pretoria Central",
+  "sum_2014_2015" : "34577"
+}
+, {
+  "station" : "Pretoria Moot",
+  "sum_2014_2015" : "6592"
+}
+, {
+  "station" : "Pretoria North",
+  "sum_2014_2015" : "10024"
+}
+, {
+  "station" : "Pretoria West",
+  "sum_2014_2015" : "18676"
+}
+, {
+  "station" : "Prieska",
+  "sum_2014_2015" : "1618"
+}
+, {
+  "station" : "Primrose",
+  "sum_2014_2015" : "10256"
+}
+, {
+  "station" : "Prince Albert",
+  "sum_2014_2015" : "2103"
+}
+, {
+  "station" : "Prince Alfred Hamlet",
+  "sum_2014_2015" : "4614"
+}
+, {
+  "station" : "Protea Glen",
+  "sum_2014_2015" : "15077"
+}
+, {
+  "station" : "Pudimoe",
+  "sum_2014_2015" : "2037"
+}
+, {
+  "station" : "Punzana",
+  "sum_2014_2015" : "676"
+}
+, {
+  "station" : "Putfontein",
+  "sum_2014_2015" : "5085"
+}
+, {
+  "station" : "Queenstown",
+  "sum_2014_2015" : "4868"
+}
+, {
+  "station" : "Qumbu",
+  "sum_2014_2015" : "4212"
+}
+, {
+  "station" : "Rabie Ridge",
+  "sum_2014_2015" : "8977"
+}
+, {
+  "station" : "Randburg",
+  "sum_2014_2015" : "17217"
+}
+, {
+  "station" : "Randfontein",
+  "sum_2014_2015" : "20568"
+}
+, {
+  "station" : "Rankin'S Pass",
+  "sum_2014_2015" : "285"
+}
+, {
+  "station" : "Ratanda",
+  "sum_2014_2015" : "3641"
+}
+, {
+  "station" : "Ravensmead",
+  "sum_2014_2015" : "15872"
+}
+, {
+  "station" : "Rawsonville",
+  "sum_2014_2015" : "2454"
+}
+, {
+  "station" : "Reddersburg",
+  "sum_2014_2015" : "539"
+}
+, {
+  "station" : "Redelinghuys",
+  "sum_2014_2015" : "486"
+}
+, {
+  "station" : "Reigerpark",
+  "sum_2014_2015" : "7905"
+}
+, {
+  "station" : "Reitz",
+  "sum_2014_2015" : "1723"
+}
+, {
+  "station" : "Reivilo",
+  "sum_2014_2015" : "508"
+}
+, {
+  "station" : "Rhodes",
+  "sum_2014_2015" : "66"
+}
+, {
+  "station" : "Richards Bay",
+  "sum_2014_2015" : "13122"
+}
+, {
+  "station" : "Richmond(C)",
+  "sum_2014_2015" : "1028"
+}
+, {
+  "station" : "Richmond-Kzn",
+  "sum_2014_2015" : "2784"
+}
+, {
+  "station" : "Riebeeck East",
+  "sum_2014_2015" : "94"
+}
+, {
+  "station" : "Riebeek West",
+  "sum_2014_2015" : "3736"
+}
+, {
+  "station" : "Rietbron",
+  "sum_2014_2015" : "155"
+}
+, {
+  "station" : "Rietfontein",
+  "sum_2014_2015" : "425"
+}
+, {
+  "station" : "Rietgat",
+  "sum_2014_2015" : "18935"
+}
+, {
+  "station" : "Rietvlei",
+  "sum_2014_2015" : "419"
+}
+, {
+  "station" : "Ritavi",
+  "sum_2014_2015" : "7003"
+}
+, {
+  "station" : "Riversdale",
+  "sum_2014_2015" : "4237"
+}
+, {
+  "station" : "Riviersonderend",
+  "sum_2014_2015" : "2094"
+}
+, {
+  "station" : "Roadside",
+  "sum_2014_2015" : "88"
+}
+, {
+  "station" : "Robertson",
+  "sum_2014_2015" : "7575"
+}
+, {
+  "station" : "Roedtan",
+  "sum_2014_2015" : "446"
+}
+, {
+  "station" : "Rondebosch",
+  "sum_2014_2015" : "5518"
+}
+, {
+  "station" : "Roodepan",
+  "sum_2014_2015" : "6835"
+}
+, {
+  "station" : "Roodepoort",
+  "sum_2014_2015" : "28644"
+}
+, {
+  "station" : "Rooiberg",
+  "sum_2014_2015" : "568"
+}
+, {
+  "station" : "Roossenekal",
+  "sum_2014_2015" : "423"
+}
+, {
+  "station" : "Rosebank",
+  "sum_2014_2015" : "4320"
+}
+, {
+  "station" : "Rosedale",
+  "sum_2014_2015" : "4309"
+}
+, {
+  "station" : "Rosendal",
+  "sum_2014_2015" : "520"
+}
+, {
+  "station" : "Rossouw",
+  "sum_2014_2015" : "63"
+}
+, {
+  "station" : "Rouxville",
+  "sum_2014_2015" : "598"
+}
+, {
+  "station" : "Rust De Winter",
+  "sum_2014_2015" : "175"
+}
+, {
+  "station" : "Rustenburg",
+  "sum_2014_2015" : "31656"
+}
+, {
+  "station" : "Saamboubrug",
+  "sum_2014_2015" : "128"
+}
+, {
+  "station" : "Sabie",
+  "sum_2014_2015" : "1989"
+}
+, {
+  "station" : "Sakhile",
+  "sum_2014_2015" : "2592"
+}
+, {
+  "station" : "Saldanha",
+  "sum_2014_2015" : "5823"
+}
+, {
+  "station" : "Sandringham",
+  "sum_2014_2015" : "6517"
+}
+, {
+  "station" : "Sandton",
+  "sum_2014_2015" : "32116"
+}
+, {
+  "station" : "Sannieshof",
+  "sum_2014_2015" : "945"
+}
+, {
+  "station" : "Saron",
+  "sum_2014_2015" : "2041"
+}
+, {
+  "station" : "Saselamani",
+  "sum_2014_2015" : "2393"
+}
+, {
+  "station" : "Sasolburg",
+  "sum_2014_2015" : "6941"
+}
+, {
+  "station" : "Sawoti",
+  "sum_2014_2015" : "1280"
+}
+, {
+  "station" : "Scenery Park",
+  "sum_2014_2015" : "2490"
+}
+, {
+  "station" : "Schoemansdal",
+  "sum_2014_2015" : "3046"
+}
+, {
+  "station" : "Schweizer-Reneke",
+  "sum_2014_2015" : "1387"
+}
+, {
+  "station" : "Scottburgh",
+  "sum_2014_2015" : "5552"
+}
+, {
+  "station" : "Seafield",
+  "sum_2014_2015" : "337"
+}
+, {
+  "station" : "Sea Point",
+  "sum_2014_2015" : "12015"
+}
+, {
+  "station" : "Sebayeng",
+  "sum_2014_2015" : "2495"
+}
+, {
+  "station" : "Sebenza",
+  "sum_2014_2015" : "5294"
+}
+, {
+  "station" : "Sebokeng",
+  "sum_2014_2015" : "11609"
+}
+, {
+  "station" : "Secunda",
+  "sum_2014_2015" : "8301"
+}
+, {
+  "station" : "Sekgosese",
+  "sum_2014_2015" : "1105"
+}
+, {
+  "station" : "Sekhukhune",
+  "sum_2014_2015" : "3680"
+}
+, {
+  "station" : "Selosesha",
+  "sum_2014_2015" : "5198"
+}
+, {
+  "station" : "Senekal",
+  "sum_2014_2015" : "2789"
+}
+, {
+  "station" : "Senwabarwana",
+  "sum_2014_2015" : "2949"
+}
+, {
+  "station" : "Seshego",
+  "sum_2014_2015" : "18330"
+}
+, {
+  "station" : "Setlagole",
+  "sum_2014_2015" : "1581"
+}
+, {
+  "station" : "Seven Fountains",
+  "sum_2014_2015" : "190"
+}
+, {
+  "station" : "Severn",
+  "sum_2014_2015" : "189"
+}
+, {
+  "station" : "Seymour",
+  "sum_2014_2015" : "579"
+}
+, {
+  "station" : "Sharpeville",
+  "sum_2014_2015" : "5056"
+}
+, {
+  "station" : "Sheepmoor",
+  "sum_2014_2015" : "603"
+}
+, {
+  "station" : "Siloam",
+  "sum_2014_2015" : "3390"
+}
+, {
+  "station" : "Silverton",
+  "sum_2014_2015" : "16065"
+}
+, {
+  "station" : "Simon'S Town",
+  "sum_2014_2015" : "2542"
+}
+, {
+  "station" : "Sinoville",
+  "sum_2014_2015" : "11689"
+}
+, {
+  "station" : "Siyabuswa",
+  "sum_2014_2015" : "6955"
+}
+, {
+  "station" : "Skukuza",
+  "sum_2014_2015" : "566"
+}
+, {
+  "station" : "Smithfield",
+  "sum_2014_2015" : "854"
+}
+, {
+  "station" : "Somerset East",
+  "sum_2014_2015" : "2048"
+}
+, {
+  "station" : "Somerset West",
+  "sum_2014_2015" : "16402"
+}
+, {
+  "station" : "Sophia Town",
+  "sum_2014_2015" : "19220"
+}
+, {
+  "station" : "Soshanguve",
+  "sum_2014_2015" : "13521"
+}
+, {
+  "station" : "Southport",
+  "sum_2014_2015" : "2900"
+}
+, {
+  "station" : "Soutpan",
+  "sum_2014_2015" : "428"
+}
+, {
+  "station" : "Springbok",
+  "sum_2014_2015" : "3051"
+}
+, {
+  "station" : "Springfontein",
+  "sum_2014_2015" : "399"
+}
+, {
+  "station" : "Springs",
+  "sum_2014_2015" : "21663"
+}
+, {
+  "station" : "Standerton",
+  "sum_2014_2015" : "7967"
+}
+, {
+  "station" : "Stanford",
+  "sum_2014_2015" : "1665"
+}
+, {
+  "station" : "Steenberg",
+  "sum_2014_2015" : "13196"
+}
+, {
+  "station" : "Steinkopf",
+  "sum_2014_2015" : "511"
+}
+, {
+  "station" : "Stella",
+  "sum_2014_2015" : "557"
+}
+, {
+  "station" : "Stellenbosch",
+  "sum_2014_2015" : "25173"
+}
+, {
+  "station" : "Sterkspruit",
+  "sum_2014_2015" : "4693"
+}
+, {
+  "station" : "Sterkstroom",
+  "sum_2014_2015" : "792"
+}
+, {
+  "station" : "Steunmekaar",
+  "sum_2014_2015" : "59"
+}
+, {
+  "station" : "Steve Vukile Tshwete",
+  "sum_2014_2015" : "1517"
+}
+, {
+  "station" : "Steynsburg",
+  "sum_2014_2015" : "766"
+}
+, {
+  "station" : "Steynsrus",
+  "sum_2014_2015" : "610"
+}
+, {
+  "station" : "Steytlerville",
+  "sum_2014_2015" : "481"
+}
+, {
+  "station" : "St Faiths",
+  "sum_2014_2015" : "1115"
+}
+, {
+  "station" : "St Francis Bay",
+  "sum_2014_2015" : "910"
+}
+, {
+  "station" : "St Helena Bay",
+  "sum_2014_2015" : "1924"
+}
+, {
+  "station" : "Stilfontein",
+  "sum_2014_2015" : "3253"
+}
+, {
+  "station" : "Still Bay",
+  "sum_2014_2015" : "1343"
+}
+, {
+  "station" : "Storms River",
+  "sum_2014_2015" : "1246"
+}
+, {
+  "station" : "Strand",
+  "sum_2014_2015" : "16929"
+}
+, {
+  "station" : "Strandfontein",
+  "sum_2014_2015" : "5384"
+}
+, {
+  "station" : "Struisbaai",
+  "sum_2014_2015" : "863"
+}
+, {
+  "station" : "Strydenburg",
+  "sum_2014_2015" : "509"
+}
+, {
+  "station" : "Stutterheim",
+  "sum_2014_2015" : "3892"
+}
+, {
+  "station" : "Sulenkama",
+  "sum_2014_2015" : "1853"
+}
+, {
+  "station" : "Sun City",
+  "sum_2014_2015" : "5817"
+}
+, {
+  "station" : "Sundra",
+  "sum_2014_2015" : "2357"
+}
+, {
+  "station" : "Sundumbili",
+  "sum_2014_2015" : "4588"
+}
+, {
+  "station" : "Sunnyside",
+  "sum_2014_2015" : "28965"
+}
+, {
+  "station" : "Sunrise",
+  "sum_2014_2015" : "2056"
+}
+, {
+  "station" : "Sutherland",
+  "sum_2014_2015" : "416"
+}
+, {
+  "station" : "Suurbraak",
+  "sum_2014_2015" : "526"
+}
+, {
+  "station" : "Swartberg",
+  "sum_2014_2015" : "303"
+}
+, {
+  "station" : "Swartkops",
+  "sum_2014_2015" : "6136"
+}
+, {
+  "station" : "Swartruggens",
+  "sum_2014_2015" : "1517"
+}
+, {
+  "station" : "Swellendam",
+  "sum_2014_2015" : "6719"
+}
+, {
+  "station" : "Sydenham",
+  "sum_2014_2015" : "13688"
+}
+, {
+  "station" : "Tabase",
+  "sum_2014_2015" : "113"
+}
+, {
+  "station" : "Table Bay Harbour",
+  "sum_2014_2015" : "3766"
+}
+, {
+  "station" : "Table View",
+  "sum_2014_2015" : "18161"
+}
+, {
+  "station" : "Tamara",
+  "sum_2014_2015" : "1421"
+}
+, {
+  "station" : "Tarkastad",
+  "sum_2014_2015" : "784"
+}
+, {
+  "station" : "Tarlton",
+  "sum_2014_2015" : "2001"
+}
+, {
+  "station" : "Taung",
+  "sum_2014_2015" : "6531"
+}
+, {
+  "station" : "Taylors Halt",
+  "sum_2014_2015" : "4146"
+}
+, {
+  "station" : "Temba",
+  "sum_2014_2015" : "29110"
+}
+, {
+  "station" : "Tembisa",
+  "sum_2014_2015" : "21583"
+}
+, {
+  "station" : "Tembisa South",
+  "sum_2014_2015" : "7123"
+}
+, {
+  "station" : "Thaba-Nchu",
+  "sum_2014_2015" : "2151"
+}
+, {
+  "station" : "Thabazimbi",
+  "sum_2014_2015" : "3650"
+}
+, {
+  "station" : "Thabong",
+  "sum_2014_2015" : "14224"
+}
+, {
+  "station" : "The Barrage",
+  "sum_2014_2015" : "2235"
+}
+, {
+  "station" : "Thembalethu",
+  "sum_2014_2015" : "7132"
+}
+, {
+  "station" : "Theunissen",
+  "sum_2014_2015" : "4543"
+}
+, {
+  "station" : "Thina Falls",
+  "sum_2014_2015" : "573"
+}
+, {
+  "station" : "Thohoyandou",
+  "sum_2014_2015" : "17476"
+}
+, {
+  "station" : "Thomas River",
+  "sum_2014_2015" : "125"
+}
+, {
+  "station" : "Thornhill",
+  "sum_2014_2015" : "880"
+}
+, {
+  "station" : "Thornhill Ciskei",
+  "sum_2014_2015" : "341"
+}
+, {
+  "station" : "Thornville",
+  "sum_2014_2015" : "1449"
+}
+, {
+  "station" : "Tierpoort",
+  "sum_2014_2015" : "327"
+}
+ ]
