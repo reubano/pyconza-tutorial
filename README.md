@@ -5,6 +5,9 @@ Materials for the PyConZA tutorial on data mining
 ```bash
 git clone git@github.com:reubano/pyconza-tutorial.git
 
+# make sure you have a recent pip (>=7.0)
+pip --version
+
 # if you have a virtual environment
 pip install meza
 
