@@ -1,8 +1,8 @@
-[![Binder](http://mybinder.org/badge.svg)](http://mybinder.org:/repo/reubano/devcraft-workshop)
+# pyconza-tutorial
+Materials for the PyConZA tutorial on data mining
 
-# devcraft-workshop
-Materials for the DevCraft workshop on stream processing
-
-## Data Sets
-[Kenya Primary Schools](https://www.opendata.go.ke/resource/fbd2-c7tq.json)
-[Poverty Rate by District](https://www.opendata.go.ke/resource/i5bp-z9aq.json)
+## Installaion
+```bash
+git clone git@github.com:reubano/pyconza-tutorial.git
+pip install --user meza
+```
