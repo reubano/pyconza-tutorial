@@ -1,3 +1,5 @@
+[![Binder](http://mybinder.org/badge.svg)](http://mybinder.org:/repo/reubano/pyconza-tutorial)
+
 # pyconza-tutorial
 
 Materials for the PyConZA tutorial on data mining
