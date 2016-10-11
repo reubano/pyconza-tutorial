@@ -3,7 +3,7 @@ Materials for the PyConZA tutorial on data mining
 
 ## Installation
 ```bash
-git clone git@github.com:reubano/pyconza-tutorial.git
+git clone https://github.com/reubano/pyconza-tutorial.git
 
 # make sure you have a recent pip (>=7.0)
 pip --version
