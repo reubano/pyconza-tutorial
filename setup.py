@@ -23,6 +23,6 @@ setup(
     packages=find_packages(exclude=['tests']),
     include_package_data=True,
     package_data={'data': ['*.csv', '*.json', '*.xlsx']},
-    install_requires=['meza>=0.30.1,<0.31.0'],
+    install_requires=['meza>=0.31.0,<0.32.0'],
     zip_safe=False
 )
