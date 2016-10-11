@@ -1,7 +1,7 @@
 # pyconza-tutorial
 Materials for the PyConZA tutorial on data mining
 
-## Installaion
+## Installation
 ```bash
 git clone git@github.com:reubano/pyconza-tutorial.git
 
