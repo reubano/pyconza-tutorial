@@ -30,5 +30,5 @@ Some of the included data files come from [Code for South Africa](https://data.c
 ## Resources
 
 - [PyConZA](https://za.pycon.org/talks/38/)
-- [slides](https://speakerdeck.com/reubano/data-mining-pyconza16)
+- [slides](https://speakerdeck.com/reubano/data-mining-and-processing-for-fun-and-profit)
 - [video](https://www.youtube.com/watch?v=05C_E1wyT1I&list=PLGjWYNrNnSufYp1ADGLKUFnXagkQhyRMU&index=31)
